@@ -3,3 +3,5 @@ Audi R8
 Tesla
 Mercedes 5500
 Lexus GX470
+Kia Optima
+Subaru WRX STI
