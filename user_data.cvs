@@ -1,5 +1,10 @@
 Name, Age, Gender
 Susan, 37, female
 Azem, 44, male
+<<<<<<< HEAD:user_data.cvs
 Max, 37, Male
 Selva, 17, male
+=======
+Selva, 17, female
+Levent, 15, male 
+>>>>>>> 2928e06ef934dff88f88dc4c874d9c734d388ec2:users.csv
